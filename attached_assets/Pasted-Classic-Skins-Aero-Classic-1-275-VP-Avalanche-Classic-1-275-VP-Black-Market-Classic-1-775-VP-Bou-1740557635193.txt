@@ -1,0 +1,104 @@
+Classic Skins
+Aero Classic	1,275 VP
+Avalanche Classic	1,275 VP
+Black Market Classic	1,775 VP
+Bound Classic	1,275 VP
+Celestial Classic	1,775 VP
+Convex Classic	875 VP
+Cryostasis Classic	1,775 VP
+Daydreams Classic	875 VP
+Eternal Spirit Classic	1,275 VP
+Fire Arm Classic	1,775 VP
+Forsaken Classic	1,775 VP
+Glitchpop Classic	2,175 VP
+Galleria Classic	875 VP
+Gravitational Uranium Neuroblaster (G.U.N) Classic	1,775 VP
+Hue Shift Classic	1,275 VP
+Imperium Classic	2,175 VP
+Infinity Classic	1,275 VP
+Intergrade Classic	875 VP
+Ion Classic	1,775 VP
+Kingdom Classic	1,275 VP
+Kohaku & Matsuba Classic	1,275 VP
+Luxe Classic	875 VP
+Magepunk Classic	1,775 VP
+Mirage Classic	1,275 VP
+Mystbloom Classic	2,175 VP
+Neptune Classic	1,775 VP
+Nitro Classic	875 VP
+Oni Classic	1,775 VP
+Origin Classic	1,775 VP
+Prime Classic	1,775 VP
+Prism III Classic	875 VP
+Radiant Crisis 001 Classic	1,775 VP
+Reaver Classic	1,775 VP
+Red Alert Classic	875 VP
+Reverie Classic	875 VP
+RGX 11z Pro Classic	2,175 VP
+Sakura Classic	1,275 VP
+Sarmad Classic	1,275 VP
+Sensation Classic	875 VP
+Silhouette Classic	875 VP
+Smite Classic	875 VP
+Snowfall Classic	1,275 VP
+Sovereign Classic	1,775 VP
+Spitfire Classic	875 VP
+Spectrum Classic	2,675 VP
+Spline Classic	1,775 VP
+Surge Classic	875 VP
+Switchback Classic	875 VP
+Titanmail Classic	1,275 VP
+Undercity Classic	1,775 VP
+Valorant Go! Vol. 2 Classic	1,775 VP
+Varnish Classic	875 VP
+Wayfarer Classic	875 VP
+Winterwunderland Classic	1,275 VP
+
+Frenzy Skins
+Aero Frenzy	1,275 VP
+BlastX Frenzy	2,175 VP
+Blush Frenzy	875 VP
+Celestial Frenzy	1,775 VP
+Coalition: Cobra Frenzy	875 VP
+Combat Crafts Frenzy	1,275 VP
+Convex Frenzy	875 VP
+Couture Frenzy	875 VP
+Divine Swine Frenzy	875 VP
+Elderflame Frenzy	2,475 VP
+Emberclad Frenzy	1,275 VP
+Glitchpop Frenzy	2,175 VP
+Holomoku Frenzy	1,275 VP
+Horizon Frenzy	1,275 VP
+Hydrodip Frenzy	875 VP
+Ion Frenzy	1,775 VP
+Lightwave Frenzy	875 VP
+Monarch Frenzy	875 VP
+Moondash Frenzy	875 VP
+Nebula Frenzy	1,775 VP
+Nunca Olvidados Frenzy	1,275 VP
+Oni Frenzy	1,775 VP
+Onion Frenzy	1,775 VP
+Orion Frenzy	1,275 VP
+Origin Frenzy	1,775 VP
+Prime 2.0 Frenzy	1,775 VP
+Protocol 781-A Frenzy	2,475 VP
+Ragnarocker Frenzy	875 VP
+Radiant Crisis 001 Frenzy	1,775 VP
+Reaver Frenzy	1,775 VP
+RGX 11z Pro Frenzy	2,175 VP
+Rush Frenzy	875 VP
+Sarmad Frenzy	1,275 VP
+Sensation Frenzy	875 VP
+Silhouette Frenzy	875 VP
+Silvanus Frenzy	1,275 VP
+Sovereign Frenzy	1,775 VP
+Spitfire Frenzy	875 VP
+Spectrum Frenzy	2,675 VP
+Swooping Frenzy	875 VP
+Team Ace Frenzy	1,275 VP
+Titanmail Frenzy	1,275 VP
+VALORANT GO! Vol. 1 Frenzy	1,775 VP
+Venturi Frenzy	875 VP
+Wonderstallion Frenzy	875 VP
+Xenohunter Frenzy	1,775 VP
+

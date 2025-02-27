@@ -1,0 +1,42 @@
+{
+  "Champions 2021 Collection": [
+    {
+      "id": 7000,
+      "name": "2021 Collection",
+      "type": "Champions 2021 Collection",
+      "cost": 6263,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    }
+  ],
+  "Champions 2022 Collection": [
+    {
+      "id": 7100,
+      "name": "2022 Collection",
+      "type": "Champions 2022 Collection",
+      "cost": 6167,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    }
+  ],
+  "Champions 2023 Collection": [
+    {
+      "id": 7200,
+      "name": "2023 Collection",
+      "type": "Champions 2023 Collection",
+      "cost": 6167,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    }
+  ],
+  "Champions 2024 Collection": [
+    {
+      "id": 7300,
+      "name": "2024 Collection",
+      "type": "Champions 2024 Collection",
+      "cost": 6167,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+{
+  "Episode 1: IGNITION": [
+    {
+      "id": 5000,
+      "name": "Episode 1: IGNITION - ACT 1",
+      "type": "Episode 1: IGNITION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5001,
+      "name": "Episode 1: IGNITION - ACT 2",
+      "type": "Episode 1: IGNITION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5002,
+      "name": "Episode 1: IGNITION - ACT 3",
+      "type": "Episode 1: IGNITION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 2: FORMATION": [
+    {
+      "id": 5100,
+      "name": "Episode 2: FORMATION - ACT 1",
+      "type": "Episode 2: FORMATION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5101,
+      "name": "Episode 2: FORMATION - ACT 2",
+      "type": "Episode 2: FORMATION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5102,
+      "name": "Episode 2: FORMATION - ACT 3",
+      "type": "Episode 2: FORMATION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 3: REFLECTION": [
+    {
+      "id": 5200,
+      "name": "Episode 3: REFLECTION - ACT 1",
+      "type": "Episode 3: REFLECTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5201,
+      "name": "Episode 3: REFLECTION - ACT 2",
+      "type": "Episode 3: REFLECTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5202,
+      "name": "Episode 3: REFLECTION - ACT 3",
+      "type": "Episode 3: REFLECTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 4: DISRUPTION": [
+    {
+      "id": 5300,
+      "name": "Episode 4: DISRUPTION - ACT 1",
+      "type": "Episode 4: DISRUPTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5301,
+      "name": "Episode 4: DISRUPTION - ACT 2",
+      "type": "Episode 4: DISRUPTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5302,
+      "name": "Episode 4: DISRUPTION - ACT 3",
+      "type": "Episode 4: DISRUPTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 5: DIMENSION": [
+    {
+      "id": 5400,
+      "name": "Episode 5: DIMENSION - ACT 1",
+      "type": "Episode 5: DIMENSION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5401,
+      "name": "Episode 5: DIMENSION - ACT 2",
+      "type": "Episode 5: DIMENSION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5402,
+      "name": "Episode 5: DIMENSION - ACT 3",
+      "type": "Episode 5: DIMENSION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 6: REVELATION": [
+    {
+      "id": 5500,
+      "name": "Episode 6: REVELATION - ACT 1",
+      "type": "Episode 6: REVELATION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5501,
+      "name": "Episode 6: REVELATION - ACT 2",
+      "type": "Episode 6: REVELATION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5502,
+      "name": "Episode 6: REVELATION - ACT 3",
+      "type": "Episode 6: REVELATION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 7: EVOLUTION": [
+    {
+      "id": 5600,
+      "name": "Episode 7: EVOLUTION - ACT 1",
+      "type": "Episode 7: EVOLUTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5601,
+      "name": "Episode 7: EVOLUTION - ACT 2",
+      "type": "Episode 7: EVOLUTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5602,
+      "name": "Episode 7: EVOLUTION - ACT 3",
+      "type": "Episode 7: EVOLUTION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 8: DEFIANCE": [
+    {
+      "id": 5700,
+      "name": "Episode 8: DEFIANCE - ACT 1",
+      "type": "Episode 8: DEFIANCE",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5701,
+      "name": "Episode 8: DEFIANCE - ACT 2",
+      "type": "Episode 8: DEFIANCE",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5702,
+      "name": "Episode 8: DEFIANCE - ACT 3",
+      "type": "Episode 8: DEFIANCE",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 9: COLLISION": [
+    {
+      "id": 5800,
+      "name": "Episode 9: COLLISION - ACT 1",
+      "type": "Episode 9: COLLISION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5801,
+      "name": "Episode 9: COLLISION - ACT 2",
+      "type": "Episode 9: COLLISION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5802,
+      "name": "Episode 9: COLLISION - ACT 3",
+      "type": "Episode 9: COLLISION",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ],
+  "Episode 10": [
+    {
+      "id": 5900,
+      "name": "Episode 10 - ACT 1",
+      "type": "Episode 10",
+      "cost": 1000,
+      "rarity": "BattlePass",
+      "isBaseSkin": false
+    }
+  ]
+}

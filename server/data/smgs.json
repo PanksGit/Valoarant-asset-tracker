@@ -1,0 +1,734 @@
+{
+  "Stinger": [
+    {
+      "id": 2000,
+      "name": "Aero Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2001,
+      "name": "BlastX Stinger",
+      "type": "Stinger",
+      "cost": 2175,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2002,
+      "name": "Celestial Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2003,
+      "name": "Chromedek Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2004,
+      "name": "Coalition: Cobra Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2005,
+      "name": "Convex Stinger",
+      "type": "Stinger",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2006,
+      "name": "Doodle Buds Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2007,
+      "name": "Ego Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2008,
+      "name": "Elderflame Stinger",
+      "type": "Stinger",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2009,
+      "name": "Emberclad Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2010,
+      "name": "Glitchpop Stinger",
+      "type": "Stinger",
+      "cost": 2175,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2011,
+      "name": "Holomoku Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2012,
+      "name": "Horizon Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2013,
+      "name": "Ion Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2014,
+      "name": "Nebula Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2015,
+      "name": "Nunca Olvidados Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2016,
+      "name": "Oni Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2017,
+      "name": "Orion Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2018,
+      "name": "Origin Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2019,
+      "name": "Overdrive Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2020,
+      "name": "Prelude to Chaos Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2021,
+      "name": "Prime 2.0 Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2022,
+      "name": "Protocol 781-A Stinger",
+      "type": "Stinger",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2023,
+      "name": "Radiant Crisis 001 Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2024,
+      "name": "Reaver Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2025,
+      "name": "RGX 11z Pro Stinger",
+      "type": "Stinger",
+      "cost": 2175,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2026,
+      "name": "Rush Stinger",
+      "type": "Stinger",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2027,
+      "name": "Sensation Stinger",
+      "type": "Stinger",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2028,
+      "name": "Silvanus Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2029,
+      "name": "Sovereign Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2030,
+      "name": "Spectrum Stinger",
+      "type": "Stinger",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2031,
+      "name": "Team Ace Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2032,
+      "name": "Titanmail Stinger",
+      "type": "Stinger",
+      "cost": 1275,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2033,
+      "name": "VALORANT GO! Vol. 1 Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2034,
+      "name": "Wonderstallion Stinger",
+      "type": "Stinger",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2035,
+      "name": "Xenohunter Stinger",
+      "type": "Stinger",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Spectre": [
+    {
+      "id": 2100,
+      "name": "Abyssal Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2101,
+      "name": "Altitude Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2102,
+      "name": "Araxys Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2103,
+      "name": "BlastX Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2104,
+      "name": "Celestial Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2105,
+      "name": "Coalition: Cobra Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2106,
+      "name": "Convex Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2107,
+      "name": "Crimsonbeast Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2108,
+      "name": "Digihex Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2109,
+      "name": "Doodle Buds Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2110,
+      "name": "Ego Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2111,
+      "name": "Endeavour Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2112,
+      "name": "Evori Dreamwings Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2113,
+      "name": "Exo Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2114,
+      "name": "Forsaken Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2115,
+      "name": "Glitchpop Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2116,
+      "name": "Gravitational Uranium Neuroblaster Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2117,
+      "name": "Helix Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2118,
+      "name": "Horizon Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2119,
+      "name": "Infantry Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2120,
+      "name": "Ion Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2121,
+      "name": "Kingdom Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2122,
+      "name": "Kuronami Spectre",
+      "type": "Spectre",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2123,
+      "name": "Lightwave Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2124,
+      "name": "Magepunk Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2125,
+      "name": "Minima Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2126,
+      "name": "Monarch Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2127,
+      "name": "Mystbloom Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2128,
+      "name": "Neptune Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2129,
+      "name": "Nunca Olvidados Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2130,
+      "name": "Oni Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2131,
+      "name": "Origin Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2132,
+      "name": "Overdrive Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2133,
+      "name": "Primordium Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2134,
+      "name": "Prime Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2135,
+      "name": "Protocol 781-A Spectre",
+      "type": "Spectre",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2136,
+      "name": "Radiant Crisis 001 Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2137,
+      "name": "Reaver Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2138,
+      "name": "Recon Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2139,
+      "name": "RGX 11z Pro Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2140,
+      "name": "Ruination Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2141,
+      "name": "Sakura Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2142,
+      "name": "Sentinels of Light Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2143,
+      "name": "Serenity Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2144,
+      "name": "Singularity Spectre",
+      "type": "Spectre",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2145,
+      "name": "Snowfall Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2146,
+      "name": "Soulstrife Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2147,
+      "name": "Sovereign Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2148,
+      "name": "Spectrum Spectre",
+      "type": "Spectre",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2149,
+      "name": "Spline Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2150,
+      "name": "Tigris Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2151,
+      "name": "Titanmail Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2152,
+      "name": "VALORANT GO! Vol. 1 Spectre",
+      "type": "Spectre",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2153,
+      "name": "Venturi Spectre",
+      "type": "Spectre",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2154,
+      "name": "Winterwunderland Spectre",
+      "type": "Spectre",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ]
+}

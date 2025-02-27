@@ -1,0 +1,796 @@
+{
+  "Melee": [
+    {
+      "id": 4000,
+      "name": "Tactical Knife",
+      "type": "Melee",
+      "cost": 0,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 4001,
+      "name": "VCT Karambit",
+      "type": "Melee",
+      "cost": 5850,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4002,
+      "name": "Helix Daggers",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4003,
+      "name": "E.XO Edge",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4004,
+      "name": "Araxys Bio-Atomizers",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4005,
+      "name": "Combat Crafts Axe",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4006,
+      "name": "Arcane Gauntlets",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4007,
+      "name": "Doombringer Battleaxe",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4008,
+      "name": "Singularity Butterfly Knife",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4009,
+      "name": "Aperture Stiletto",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4010,
+      "name": "Nocturnum Scythe and Dagger",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4011,
+      "name": "Wonderstallion Hammer",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4012,
+      "name": "VALORANT Champions 2024 Blade",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4013,
+      "name": "RGX 11z Pro Karambit",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4014,
+      "name": "Evori's Spellcaster",
+      "type": "Melee",
+      "cost": 4950,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4015,
+      "name": "Blade of Aemondir",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4016,
+      "name": "Kaimana",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4017,
+      "name": "Mystbloom Kunai",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4018,
+      "name": "Switchback Ascender",
+      "type": "Melee",
+      "cost": 1750,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4019,
+      "name": "Eternal Sovereign",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4020,
+      "name": "Fortune's Scepter",
+      "type": "Melee",
+      "cost": 1750,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4021,
+      "name": "Blades of Primordia",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4022,
+      "name": "XERØFANG knife",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4023,
+      "name": "Emberclad Hammer",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4024,
+      "name": "Kuronami no Yaiba",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4025,
+      "name": "Overdrive Blade",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4026,
+      "name": "Chromedek Gauntlet",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4027,
+      "name": "Relic Stone Daggers",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4028,
+      "name": "Ruyi Staff",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4029,
+      "name": "Orion Sword",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4030,
+      "name": "Gaia's Vengeance 2.0",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4031,
+      "name": "Intergrade Blade",
+      "type": "Melee",
+      "cost": 1750,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4032,
+      "name": "Blades of Imperium",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4033,
+      "name": "Champions 2023 Kunai",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4034,
+      "name": "Ignite fan",
+      "type": "Melee",
+      "cost": 4710,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4035,
+      "name": "Neo Frontier axe",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4036,
+      "name": "No Limited Bat",
+      "type": "Melee",
+      "cost": 2250,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4037,
+      "name": "Magepunk Sparkswitch",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4038,
+      "name": "Power Fist",
+      "type": "Melee",
+      "cost": 5950,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4039,
+      "name": "Black.Market Butterfly knife",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4040,
+      "name": "Altitude Knuckle knife",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4041,
+      "name": "Onimaru Kunitsuna",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4042,
+      "name": "Reverie Sword",
+      "type": "Melee",
+      "cost": 1750,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4043,
+      "name": "VCT LOCK//IN Misericórdia",
+      "type": "Melee",
+      "cost": 5440,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4044,
+      "name": "Luna's Descent",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4045,
+      "name": "Araxys Bio Harvester",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4046,
+      "name": "Cryostasis Impact Drill",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4047,
+      "name": "Caeruleus",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4048,
+      "name": "Soulstrife Scythe",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4049,
+      "name": "Ion Karambit",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4050,
+      "name": "Crimsonbeast Hammer",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4051,
+      "name": "Terminus A Quo",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4052,
+      "name": "Equilibrium",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4053,
+      "name": "Reaver, EP 5 Karambit",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4054,
+      "name": "Blade of Serket",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4055,
+      "name": "Blade of Chaos",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4056,
+      "name": "Xenohunter knife",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4057,
+      "name": "Neptune Anchor",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4058,
+      "name": "Titanmail mace",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4059,
+      "name": "VCT Champions 2022 Butterfly",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4060,
+      "name": "RGX 11z Pro Firefly",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4061,
+      "name": "Gaia's Wrath",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4062,
+      "name": "Hack",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4063,
+      "name": "Hu Else",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4064,
+      "name": "Personal Administrative Melee Unit",
+      "type": "Melee",
+      "cost": 4950,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4065,
+      "name": "Snowfall Wand",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4066,
+      "name": "Magepunk 2.0",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4067,
+      "name": "Radiant Crisis 001 Baseball Bat",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4068,
+      "name": "Catrina",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4069,
+      "name": "RGX 11Z Pro Blade",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4070,
+      "name": "Yoru's Stylish Butterfly Comb",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4071,
+      "name": "Waveform",
+      "type": "Melee",
+      "cost": 5350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4072,
+      "name": "Recon",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4073,
+      "name": "Relic of the Sentinel",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4074,
+      "name": "Blade of the Ruined King",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4075,
+      "name": "Origin",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4076,
+      "name": "Tethered Realms prosperity",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4077,
+      "name": "Forsaken Ritual blade",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4078,
+      "name": "Magepunk Electroblade",
+      "type": "Melee",
+      "cost": 3650,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4079,
+      "name": "Prime 2.0 Karambit",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4080,
+      "name": "VALORANT GO! Vol. 1",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4081,
+      "name": "Glitchpop axe",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4082,
+      "name": "Blastx polymer knifetech",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4083,
+      "name": "Winterwunderland candy cane",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4084,
+      "name": "Ion Energy",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4085,
+      "name": "Singularity",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4086,
+      "name": "Elderflame",
+      "type": "Melee",
+      "cost": 4950,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4087,
+      "name": "Gravitational Uranium Neuroblaster",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4088,
+      "name": "EGO",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4089,
+      "name": "Smite",
+      "type": "Melee",
+      "cost": 1750,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4090,
+      "name": "Spline",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4091,
+      "name": "Nebula",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4092,
+      "name": "Glitchpop",
+      "type": "Melee",
+      "cost": 4350,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4093,
+      "name": "Oni",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4094,
+      "name": "Sovereign",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4095,
+      "name": "Prime",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4096,
+      "name": "Prism",
+      "type": "Melee",
+      "cost": 2550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4097,
+      "name": "Luxe",
+      "type": "Melee",
+      "cost": 1750,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4098,
+      "name": "Reaver",
+      "type": "Melee",
+      "cost": 3550,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ]
+}

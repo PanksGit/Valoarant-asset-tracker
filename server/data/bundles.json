@@ -1,0 +1,1004 @@
+{
+  "Bundle": [
+    {
+      "id": 8000,
+      "name": "Neptune (V25)",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8001,
+      "name": "Helix",
+      "type": "Bundle",
+      "cost": 6940,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8002,
+      "name": "EX.O",
+      "type": "Bundle",
+      "cost": 9500,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8003,
+      "name": "Araxys",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8004,
+      "name": "Tacti-Force Signature",
+      "type": "Bundle",
+      "cost": 2920,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8005,
+      "name": "Tacti-Force",
+      "type": "Bundle",
+      "cost": 1995,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8006,
+      "name": "Combat Crafts",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8007,
+      "name": "Arcane, EP 9",
+      "type": "Bundle",
+      "cost": 5925,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8008,
+      "name": "Doombringer",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8009,
+      "name": "Troublemaker",
+      "type": "Bundle",
+      "cost": 1145,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8010,
+      "name": "Run It Back: Singularity",
+      "type": "Bundle",
+      "cost": 9310,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8011,
+      "name": "Singularity, EP 9",
+      "type": "Bundle",
+      "cost": 6700,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8012,
+      "name": "Aperture",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8013,
+      "name": "Nocturnum",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8014,
+      "name": "Wonderstallion",
+      "type": "Bundle",
+      "cost": 4440,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8015,
+      "name": "RGX 11z Pro, EP 9",
+      "type": "Bundle",
+      "cost": 6700,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8016,
+      "name": "Evori Dreamwings",
+      "type": "Bundle",
+      "cost": 9900,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8017,
+      "name": "Aemondir",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8018,
+      "name": "Give Back // 2024",
+      "type": "Bundle",
+      "cost": 6200,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8019,
+      "name": "Holomoku",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8020,
+      "name": "Mystbloom",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8021,
+      "name": "Switchback",
+      "type": "Bundle",
+      "cost": 3500,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8022,
+      "name": "Sovereign, Ep 8",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8023,
+      "name": "Fortune's Hand",
+      "type": "Bundle",
+      "cost": 3875,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8024,
+      "name": "Primordium",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8025,
+      "name": "MK.VII Liberty",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8026,
+      "name": "Duo's Day",
+      "type": "Bundle",
+      "cost": 1650,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8027,
+      "name": "XERØFANG",
+      "type": "Bundle",
+      "cost": 6355,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8028,
+      "name": "Emberclad",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8029,
+      "name": "Throwback Pack: Outlaw",
+      "type": "Bundle",
+      "cost": 2320,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8030,
+      "name": "Kuronami",
+      "type": "Bundle",
+      "cost": 9500,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8031,
+      "name": "Run It Back, EP 7",
+      "type": "Bundle",
+      "cost": 4972,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8032,
+      "name": "Overdrive",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8033,
+      "name": "Chromedek",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8034,
+      "name": "Sentinels of Light, EP 7",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8035,
+      "name": "Valiant Hero",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8036,
+      "name": "Orion",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8037,
+      "name": "Gaia's Vengeance, EP 7",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8038,
+      "name": "Intergrade",
+      "type": "Bundle",
+      "cost": 3500,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8039,
+      "name": "Imperium",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8040,
+      "name": "Daydreams",
+      "type": "Bundle",
+      "cost": 3500,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8041,
+      "name": "Give Back // 2023",
+      "type": "Bundle",
+      "cost": 6387,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8042,
+      "name": "Ignite",
+      "type": "Bundle",
+      "cost": 4710,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8043,
+      "name": "Neo Frontier",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8044,
+      "name": "NO LIMITS",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8045,
+      "name": "Pride",
+      "type": "Bundle",
+      "cost": 0,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8046,
+      "name": "Magepunk, EP 6",
+      "type": "Bundle",
+      "cost": 6127,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8047,
+      "name": "Run It Back, EP 6",
+      "type": "Bundle",
+      "cost": 5950,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8048,
+      "name": "Radiant Entertainment System",
+      "type": "Bundle",
+      "cost": 11900,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8049,
+      "name": "Black.Market",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8050,
+      "name": "Altitude",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8051,
+      "name": "Oni, EP 6",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8052,
+      "name": "Reverie",
+      "type": "Bundle",
+      "cost": 3500,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8053,
+      "name": "Luna",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8054,
+      "name": "Araxys",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8055,
+      "name": "Cryostasis",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8056,
+      "name": "Abyssal",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8057,
+      "name": "Give Back // 2022",
+      "type": "Bundle",
+      "cost": 6387,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8058,
+      "name": "Soulstrife",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8059,
+      "name": "Ion, EP 5",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8060,
+      "name": "Crimsonbeast",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8061,
+      "name": "ChronoVoid",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8062,
+      "name": "Kohaku & Matsuba",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8063,
+      "name": "Reaver, EP 5",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8064,
+      "name": "Run It Back, EP 5",
+      "type": "Bundle",
+      "cost": 5950,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8065,
+      "name": "Sarmad",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8066,
+      "name": "Prelude to Chaos",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8067,
+      "name": "Xenohunter",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8068,
+      "name": "Pride",
+      "type": "Bundle",
+      "cost": 0,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8069,
+      "name": "Neptune",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8070,
+      "name": "Titanmail",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8071,
+      "name": "RGX 11z Pro, EP 4",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8072,
+      "name": "Doodle Buds",
+      "type": "Bundle",
+      "cost": 6992,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8073,
+      "name": "Endeavour",
+      "type": "Bundle",
+      "cost": 2930,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8074,
+      "name": "DTeam Ace",
+      "type": "Bundle",
+      "cost": 5616,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8075,
+      "name": "Gaia's Vengeance",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8076,
+      "name": "Undercity",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8077,
+      "name": "Tigris",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8078,
+      "name": "Protocol 781-A",
+      "type": "Bundle",
+      "cost": 9900,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8079,
+      "name": "Run It Back, EP 3",
+      "type": "Bundle",
+      "cost": 5945,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8080,
+      "name": "Snowfall",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8081,
+      "name": "Magepunk, EP 3",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8082,
+      "name": "Arcane",
+      "type": "Bundle",
+      "cost": 2377,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8083,
+      "name": "Radiant Crisis 001",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8084,
+      "name": "Nunca Olvidados",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8085,
+      "name": "RGX 11z Pro",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8086,
+      "name": "VALORANT GO! Vol. 2",
+      "type": "Bundle",
+      "cost": 8855,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8087,
+      "name": "Spectrum",
+      "type": "Bundle",
+      "cost": 10700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8088,
+      "name": "Recon",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8089,
+      "name": "Sakura",
+      "type": "Bundle",
+      "cost": 4270,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8090,
+      "name": "Sentinels of Light",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8091,
+      "name": "Ruination",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8092,
+      "name": "Give Back",
+      "type": "Bundle",
+      "cost": 6380,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8093,
+      "name": "Origin",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8094,
+      "name": "Tethered Realms",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8095,
+      "name": "Minima",
+      "type": "Bundle",
+      "cost": 4270,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8096,
+      "name": "Forsaken",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8097,
+      "name": "Silvanus",
+      "type": "Bundle",
+      "cost": 4270,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8098,
+      "name": "Magepunk",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8099,
+      "name": "Infantry",
+      "type": "Bundle",
+      "cost": 2930,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8100,
+      "name": "Prime//2.0",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8101,
+      "name": "VALORANT GO! Vol. 1",
+      "type": "Bundle",
+      "cost": 8855,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8102,
+      "name": "Celestial",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8103,
+      "name": "Glitchpop, EP 2",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8104,
+      "name": "Horizon",
+      "type": "Bundle",
+      "cost": 4270,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8105,
+      "name": "Prism II",
+      "type": "Bundle",
+      "cost": 2930,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8106,
+      "name": "Run It Back",
+      "type": "Bundle",
+      "cost": 5945,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8107,
+      "name": "BlastX",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8108,
+      "name": "Winterwunderland",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8109,
+      "name": "Sensation",
+      "type": "Bundle",
+      "cost": 2930,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8110,
+      "name": "Wasteland",
+      "type": "Bundle",
+      "cost": 4270,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8111,
+      "name": "Ion",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8112,
+      "name": "Reaver",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8113,
+      "name": "Singularity",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8114,
+      "name": "Gravitational Uranium Neuroblaster",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8115,
+      "name": "Smite",
+      "type": "Bundle",
+      "cost": 3500,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8116,
+      "name": "Ego",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8117,
+      "name": "Spline",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8118,
+      "name": "Nebula",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8119,
+      "name": "Glitchpop",
+      "type": "Bundle",
+      "cost": 8700,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8120,
+      "name": "Oni",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8121,
+      "name": "Elderflame",
+      "type": "Bundle",
+      "cost": 9900,
+      "rarity": "Ultra",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8122,
+      "name": "DePrism",
+      "type": "Bundle",
+      "cost": 5100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8123,
+      "name": "Sovereign",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8124,
+      "name": "Prime",
+      "type": "Bundle",
+      "cost": 7100,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ]
+}

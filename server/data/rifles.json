@@ -1,0 +1,1362 @@
+{
+  "Bulldog": [
+    {
+      "id": 3000,
+      "name": "Bulldog",
+      "type": "Bulldog",
+      "cost": 2050,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 3001,
+      "name": "Aemondir Bulldog",
+      "type": "Bulldog",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3002,
+      "name": "Araxys Bulldog",
+      "type": "Bulldog",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3003,
+      "name": "Black.Market Bulldog",
+      "type": "Bulldog",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3004,
+      "name": "Crimsonbeast Bulldog",
+      "type": "Bulldog",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3005,
+      "name": "Digihex Bulldog",
+      "type": "Bulldog",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3006,
+      "name": "Endeavour Bulldog",
+      "type": "Bulldog",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3007,
+      "name": "Glitchpop Bulldog",
+      "type": "Bulldog",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3008,
+      "name": "Helix Bulldog",
+      "type": "Bulldog",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3009,
+      "name": "Minima Bulldog",
+      "type": "Bulldog",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3010,
+      "name": "Neptune Bulldog",
+      "type": "Bulldog",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3011,
+      "name": "No Limits Bulldog",
+      "type": "Bulldog",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3012,
+      "name": "Nocturnum Bulldog",
+      "type": "Bulldog",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3013,
+      "name": "Nunca Olvidados Bulldog",
+      "type": "Bulldog",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3014,
+      "name": "Oni Bulldog",
+      "type": "Bulldog",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3015,
+      "name": "Protocol 781-A Bulldog",
+      "type": "Bulldog",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3016,
+      "name": "Radiant Entertainment System Bulldog",
+      "type": "Bulldog",
+      "cost": 2975,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3017,
+      "name": "Spectrum Bulldog",
+      "type": "Bulldog",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3018,
+      "name": "Undercity Bulldog",
+      "type": "Bulldog",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Guardian": [
+    {
+      "id": 3100,
+      "name": "Guardian",
+      "type": "Guardian",
+      "cost": 2250,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 3101,
+      "name": "Aemondir Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3102,
+      "name": "Araxys Guardian",
+      "type": "Guardian",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3103,
+      "name": "Black.Market Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3104,
+      "name": "Celestial Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3105,
+      "name": "ChronoVoid Guardian",
+      "type": "Guardian",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3106,
+      "name": "Digihex Guardian",
+      "type": "Guardian",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3107,
+      "name": "Gaia's Vengeance Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3108,
+      "name": "Galleria Guardian",
+      "type": "Guardian",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3109,
+      "name": "Glitchpop Guardian",
+      "type": "Guardian",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3110,
+      "name": "Infantry Guardian",
+      "type": "Guardian",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3111,
+      "name": "Ion Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3112,
+      "name": "Magepunk Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3113,
+      "name": "Minima Guardian",
+      "type": "Guardian",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3114,
+      "name": "Neptune Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3115,
+      "name": "Oni Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3116,
+      "name": "Prime Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3117,
+      "name": "Protocol 781-A Guardian",
+      "type": "Guardian",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3118,
+      "name": "Radiant Entertainment System Guardian",
+      "type": "Guardian",
+      "cost": 2975,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3119,
+      "name": "Recon Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3120,
+      "name": "Reverie Guardian",
+      "type": "Guardian",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3121,
+      "name": "RGX 11z Pro Guardian",
+      "type": "Guardian",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3122,
+      "name": "Ruination Guardian",
+      "type": "Guardian",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3123,
+      "name": "Sarmad Guardian",
+      "type": "Guardian",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3124,
+      "name": "Singularity Guardian",
+      "type": "Guardian",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3125,
+      "name": "Spectrum Guardian",
+      "type": "Guardian",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3126,
+      "name": "Tethered Realms Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3127,
+      "name": "VALORANT GO! Vol. 1 Guardian",
+      "type": "Guardian",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3128,
+      "name": "Varnish Guardian",
+      "type": "Guardian",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3129,
+      "name": "Winterwunderland Guardian",
+      "type": "Guardian",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Phantom": [
+    {
+      "id": 3200,
+      "name": "Phantom",
+      "type": "Phantom",
+      "cost": 2900,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 3201,
+      "name": "Abyssal Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3202,
+      "name": "Aemondir Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3203,
+      "name": "Araxys Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3204,
+      "name": "Avalanche Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3205,
+      "name": "BlastX Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3206,
+      "name": "Celestial Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3207,
+      "name": "Champions 2022 Phantom",
+      "type": "Phantom",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3208,
+      "name": "Champions 2024 Phantom",
+      "type": "Phantom",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3209,
+      "name": "ChronoVoid Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3210,
+      "name": "Composite Phantom",
+      "type": "Phantom",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3211,
+      "name": "Crimsonbeast Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3212,
+      "name": "Cryostasis Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3213,
+      "name": "Digihex Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3214,
+      "name": "Doodle Buds Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3215,
+      "name": "Doombringer Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3216,
+      "name": "Elderflame Phantom",
+      "type": "Phantom",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3217,
+      "name": "Endeavour Phantom",
+      "type": "Phantom",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3218,
+      "name": "Gaia's Vengeance Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3219,
+      "name": "Galleria Phantom",
+      "type": "Phantom",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3220,
+      "name": "Glitchpop Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3221,
+      "name": "Helix Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3222,
+      "name": "Ion Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3223,
+      "name": "Kohaku & Matsuba Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3224,
+      "name": "Magepunk Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3225,
+      "name": "Minima Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3226,
+      "name": "Mystic Bloom Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3227,
+      "name": "Nebula Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3228,
+      "name": "Neo Frontier Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3229,
+      "name": "Nocturnum Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3230,
+      "name": "Oni Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3231,
+      "name": "Orion Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3232,
+      "name": "Prime//2.0 Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3233,
+      "name": "Primordium Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3234,
+      "name": "Prism Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3235,
+      "name": "Protocol 781-A Phantom",
+      "type": "Phantom",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3236,
+      "name": "Radiant Crisis 001 Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3237,
+      "name": "Radiant Entertainment System Phantom",
+      "type": "Phantom",
+      "cost": 2975,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3238,
+      "name": "Reaver Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3239,
+      "name": "Recon Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3240,
+      "name": "Reverie Phantom",
+      "type": "Phantom",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3241,
+      "name": "RGX 11z Pro Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3242,
+      "name": "Ruination Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3243,
+      "name": "Rush Phantom",
+      "type": "Phantom",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3244,
+      "name": "Sarmad Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3245,
+      "name": "Sentinels of Light Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3246,
+      "name": "Silvanus Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3247,
+      "name": "Singularity Phantom",
+      "type": "Phantom",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3248,
+      "name": "Smite Phantom",
+      "type": "Phantom",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3249,
+      "name": "Snowfall Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3250,
+      "name": "Soulstrife Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3251,
+      "name": "Sovereign Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3252,
+      "name": "Spectrum Phantom",
+      "type": "Phantom",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3253,
+      "name": "Spline Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3254,
+      "name": "Team Ace Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3255,
+      "name": "Tigris Phantom",
+      "type": "Phantom",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3256,
+      "name": "Undercity Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3257,
+      "name": "VALORANT GO! Vol. 1 Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3258,
+      "name": "Xenohunter Phantom",
+      "type": "Phantom",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Vandal": [
+    {
+      "id": 3300,
+      "name": "Vandal",
+      "type": "Vandal",
+      "cost": 2900,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 3301,
+      "name": "Aemondir Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3302,
+      "name": "Altitude Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3303,
+      "name": "Araxys Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3304,
+      "name": "Arcane Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3305,
+      "name": "Black.Market Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3306,
+      "name": "Champions 2021 Vandal",
+      "type": "Vandal",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3307,
+      "name": "Champions 2023 Vandal",
+      "type": "Vandal",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3308,
+      "name": "ChronoVoid Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3309,
+      "name": "Crimsonbeast Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3310,
+      "name": "Cryostasis Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3311,
+      "name": "Digihex Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3312,
+      "name": "Ego Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3313,
+      "name": "Elderflame Vandal",
+      "type": "Vandal",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3314,
+      "name": "Endeavour Vandal",
+      "type": "Vandal",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3315,
+      "name": "Evori Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3316,
+      "name": "EX.O Vandal",
+      "type": "Vandal",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3317,
+      "name": "Forsaken Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3318,
+      "name": "Gaia's Vengeance Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3319,
+      "name": "Glitchpop Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3320,
+      "name": "Horizon Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3321,
+      "name": "Imperium Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3322,
+      "name": "Ion Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3323,
+      "name": "K/TAC Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3324,
+      "name": "Kohaku & Matsuba Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3325,
+      "name": "Kronos Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3326,
+      "name": "Kuronami Vandal",
+      "type": "Vandal",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3327,
+      "name": "Magepunk Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3328,
+      "name": "Mystic Bloom Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3329,
+      "name": "Nebula Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3330,
+      "name": "Neo Frontier Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3331,
+      "name": "Neptune Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3332,
+      "name": "Nunca Olvidados Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3333,
+      "name": "Oni Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3334,
+      "name": "Origin Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3335,
+      "name": "Orion Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3336,
+      "name": "Overdrive Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3337,
+      "name": "Prelude to Chaos Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3338,
+      "name": "Prime Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3339,
+      "name": "Primordium Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3340,
+      "name": "Prism II Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3341,
+      "name": "Radiant Entertainment System Vandal",
+      "type": "Vandal",
+      "cost": 2975,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3342,
+      "name": "Reaver Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3343,
+      "name": "Recon Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3344,
+      "name": "RGX 11z Pro Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3345,
+      "name": "Sarmad Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3346,
+      "name": "Sentinels of Light Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3347,
+      "name": "Silvanus Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3348,
+      "name": "Singularity Vandal",
+      "type": "Vandal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3349,
+      "name": "Smite Vandal",
+      "type": "Vandal",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3350,
+      "name": "Soulstrife Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3351,
+      "name": "Spline Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3352,
+      "name": "Team Ace Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3353,
+      "name": "Tethered Realms Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3354,
+      "name": "Titanmail Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3355,
+      "name": "Undercity Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3356,
+      "name": "VALORANT GO! Vol. 2 Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3357,
+      "name": "Valiant Hero Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3358,
+      "name": "Winterwunderland Vandal",
+      "type": "Vandal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3359,
+      "name": "Xenohunter Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3360,
+      "name": "XERØFANG Vandal",
+      "type": "Vandal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ]
+}

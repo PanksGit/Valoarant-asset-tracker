@@ -1,0 +1,408 @@
+{
+  "Marshal": [
+    {
+      "id": 2000,
+      "name": "Marshal",
+      "type": "Marshal",
+      "cost": 950,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 2001,
+      "name": "Avalanche Marshal",
+      "type": "Marshal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2002,
+      "name": "Black.Market Marshal",
+      "type": "Marshal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2003,
+      "name": "Couture Marshal",
+      "type": "Marshal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2004,
+      "name": "Crimsonbeast Marshal",
+      "type": "Marshal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2005,
+      "name": "Doodle Buds Marshal",
+      "type": "Marshal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2006,
+      "name": "Gaia's Vengeance Marshal",
+      "type": "Marshal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2007,
+      "name": "Galleria Marshal",
+      "type": "Marshal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2008,
+      "name": "Kuronami Marshal",
+      "type": "Marshal",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2009,
+      "name": "Magepunk Marshal",
+      "type": "Marshal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2010,
+      "name": "Monarch Marshal",
+      "type": "Marshal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2011,
+      "name": "Neo Frontier Marshal",
+      "type": "Marshal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2012,
+      "name": "Nocturnum Marshal",
+      "type": "Marshal",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2013,
+      "name": "Polyfrog Marshal",
+      "type": "Marshal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2014,
+      "name": "Reverie Marshal",
+      "type": "Marshal",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2015,
+      "name": "Sovereign Marshal",
+      "type": "Marshal",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2016,
+      "name": "Wasteland Marshal",
+      "type": "Marshal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2017,
+      "name": "Winterwunderland Marshal",
+      "type": "Marshal",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Outlaw": [
+    {
+      "id": 2100,
+      "name": "Outlaw",
+      "type": "Outlaw",
+      "cost": 2400,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 2101,
+      "name": "Ego Outlaw",
+      "type": "Outlaw",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2102,
+      "name": "Prism//Reloaded Outlaw",
+      "type": "Outlaw",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2103,
+      "name": "Holomoku Outlaw",
+      "type": "Outlaw",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2104,
+      "name": "Aquatica Outlaw",
+      "type": "Outlaw",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2105,
+      "name": "Cloudweaver Outlaw",
+      "type": "Outlaw",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2106,
+      "name": "AXAXIS Outlaw",
+      "type": "Outlaw",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2107,
+      "name": "RGX Outlaw",
+      "type": "Outlaw",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2108,
+      "name": "EX.O Outlaw",
+      "type": "Outlaw",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Operator": [
+    {
+      "id": 2200,
+      "name": "Operator",
+      "type": "Operator",
+      "cost": 4700,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 2201,
+      "name": "Araxys Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2202,
+      "name": "Cryostasis Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2203,
+      "name": "Elderflame Operator",
+      "type": "Operator",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2204,
+      "name": "Forsaken Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2205,
+      "name": "Glitchpop Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2206,
+      "name": "Gravitational Uranium Neuroblaster Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2207,
+      "name": "Imperium Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2208,
+      "name": "Ion Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2209,
+      "name": "Kohaku & Matsuba Operator",
+      "type": "Operator",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2210,
+      "name": "Magepunk Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2211,
+      "name": "Mystic Bloom Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2212,
+      "name": "Oni Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2213,
+      "name": "Origin Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2214,
+      "name": "Prelude to Chaos Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2215,
+      "name": "Radiant Entertainment System Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2216,
+      "name": "Reaver Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2217,
+      "name": "RGX 11z Pro Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2218,
+      "name": "Sentinels of Light Operator",
+      "type": "Operator",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2219,
+      "name": "Spline Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2220,
+      "name": "Tethered Realms Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2221,
+      "name": "Valiant Hero Operator",
+      "type": "Operator",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 2222,
+      "name": "Winterwunderland Operator",
+      "type": "Operator",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ]
+}

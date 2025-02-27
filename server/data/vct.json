@@ -1,0 +1,362 @@
+{
+  "Americas": [
+    {
+      "id": 6000,
+      "name": "VCT x 100T",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6001,
+      "name": "VCT x C9",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6002,
+      "name": "VCT x EG",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6003,
+      "name": "VCT x FUR",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6004,
+      "name": "VCT x G2",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6005,
+      "name": "VCT x KRÜ",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6006,
+      "name": "VCT x LEV",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6007,
+      "name": "VCT x LOUD",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6008,
+      "name": "VCT x MIBR",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6009,
+      "name": "VCT x NRG",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6010,
+      "name": "VCT x SEN",
+      "type": "Americas",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    }
+  ],
+  "EMEA": [
+    {
+      "id": 6100,
+      "name": "VCT x BBL",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6101,
+      "name": "VCT x FNC",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6102,
+      "name": "VCT x FUT",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6103,
+      "name": "VCT x M8",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6104,
+      "name": "VCT x GX",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6105,
+      "name": "VCT x KC",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6106,
+      "name": "VCT x KOI",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6107,
+      "name": "VCT x NAVI",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6108,
+      "name": "VCT x TH",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6109,
+      "name": "VCT x TL",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6110,
+      "name": "VCT x VIT",
+      "type": "EMEA",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    }
+  ],
+  "Pacific": [
+    {
+      "id": 6200,
+      "name": "VCT x BLD",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6201,
+      "name": "VCT x DFM",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6202,
+      "name": "VCT x DRX",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6203,
+      "name": "VCT x GEN",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6204,
+      "name": "VCT x GE",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6205,
+      "name": "VCT x PRX",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6206,
+      "name": "VCT x RRQ",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6207,
+      "name": "VCT x T1",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6208,
+      "name": "VCT x TLN",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6209,
+      "name": "VCT x TS",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6210,
+      "name": "VCT x ZETA",
+      "type": "Pacific",
+      "cost": 2340,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    }
+  ],
+  "CN": [
+    {
+      "id": 6300,
+      "name": "VCT x AG",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6301,
+      "name": "VCT x BLG",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6302,
+      "name": "VCT x DRG",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6303,
+      "name": "VCT x EDG",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6304,
+      "name": "VCT x FPX",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6305,
+      "name": "VCT x JDG",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6306,
+      "name": "VCT x NOVA",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6307,
+      "name": "VCT x TEC",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6308,
+      "name": "VCT x TE",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6309,
+      "name": "VCT x TYL",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6310,
+      "name": "VCT x WOL",
+      "type": "CN",
+      "cost": 1880,
+      "rarity": "VCT",
+      "isBaseSkin": false
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+Skin Name	Cost (VP)
+Caeruleus	2,550
+Blade of Aemondir	3,550
+Altitude Knuckle Knife	2,550
+Aperture Stiletto	2,550
+Araxys Bio Harvester	4,350
+Araxys Bio-Atomizers	5,350
+Arcane Gauntlets	4,350
+Black.Market Butterfly Knife	3,550
+BlastX Polymer KnifeTech Coated Knife	4,350
+Celestial Fan	3,550
+Champions 2021 Karambit	5,350
+Champions 2022 Butterfly Knife	5,350
+Champions 2023 Kunai	5,350
+Champions 2024 Blade	5,350
+Chromedek Gauntlet	2,550
+Terminus A Quo	4,350
+Combat Crafts Axe	2,550
+Crimsonbeast Hammer	3,550
+Cryostasis Impact Drill	3,550
+Daydreams Crowbar	1,750
+Doombringer Battleaxe	4,350
+Ego Knife	3,550
+Elderflame Dagger	4,950
+Emberclad Hammer	2,550
+Evori’s Spellcaster	4,950
+Forsaken Ritual Blade	3,550
+Fortune’s Scepter	1,750
+Gaia’s Fury	3,550
+Gaia’s Wrath	3,550
+Glitchpop Axe	4,350
+Glitchpop Dagger	4,350
+Gravitational Uranium Neuroblaster Baton	3,550
+Kaimana	2,550
+Ignite Fan	4,710
+Intergrade Blade	1,750
+Blades of Imperium	4,350
+Ion Energy Sword	3,550
+Ion Karambit	4,350
+Kuronami no Yaiba	5,350
+Equilibrium	2,550
+Luna’s Descent	3,550
+Luxe Knife	1,750
+Magepunk Electroblade	3,550
+Magepunk Shock Gauntlet	3,550
+Magepunk Sparkswitch	4,350
+MK.VII Liberty Combat Knife	2,550
+Mystbloom Kunai	4,350
+Nebula Knife	3,550
+Neo Frontier Axe	4,350
+Neptune Anchor	3,550
+NO LIMITS Bat	2,550
+Nocturnum Scythe	5,350
+Catrina	2,550
+Oni Claw	3,550
+Onimaru Kunitsuna	5,350
+Origin Crescent Blade	3,550
+Orion Sword	2,550
+Overdrive Blade	4,350
+Blade of Chaos	4,350
+Prime Axe	3,550
+Prime//2.0 Karambit	3,550
+Blades of Primordia	4,350
+Prism Knife	2,550
+Personal Administrative Melee Unit	4,950
+Radiant Crisis 001 Baseball Bat	3,550
+Power Fist	5,950
+Reaver Knife	3,550
+Reaver Karambit	4,350
+Recon Balisong	3,550
+Reverie Sword	1,750
+RGX 11z Pro Blade	4,350
+RGX 11z Pro Firefly	4,350
+RGX 11z Pro Karambit	4,350
+Broken Blade of the Ruined King	4,350
+Blade of Serket	2,550
+Relic of the Sentinel	4,350
+Relic Stone Daggers	4,350
+Singularity Butterfly Knife	4,350
+Singularity Knife	4,350
+Smite Knife	1,750
+Snowfall Wand	2,550
+Soulstrife Scythe	3,550
+Sovereign Sword	3,550
+Eternal Sovereign	4,350
+Switchback Ascender	1,750
+Waveform	5,350
+Spline Dagger	3,550
+Prosperity	3,550
+Hu Else	2,550
+Titanmail Mace	2,550
+Hack & Slash	3,550
+Ruyi Staff	4,350
+VALORANT GO! Vol. 1 Knife	3,550
+Yoru’s Stylish Butterfly Comb	3,550
+VCT LOCK//IN Misericórdia	5,440
+Winterwunderland Candy Cane	2,550
+Wonderstallion Hammer	3,550
+Xenohunter Knife	3,550
+XERØFANG Knife	4,350

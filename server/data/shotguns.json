@@ -1,0 +1,654 @@
+{
+  "Bucky": [
+    {
+      "id": 800,
+      "name": "Bucky",
+      "type": "Bucky",
+      "cost": 850,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 801,
+      "name": "Abyssal Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 802,
+      "name": "Aemondir Bucky",
+      "type": "Bucky",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 803,
+      "name": "Altitude Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 804,
+      "name": "Aristocrat Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 805,
+      "name": "Black Market Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 806,
+      "name": "Coalition: Cobra Bucky",
+      "type": "Bucky",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 807,
+      "name": "Convex Bucky",
+      "type": "Bucky",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 808,
+      "name": "Cryostasis Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 809,
+      "name": "Doodle Buds Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 810,
+      "name": "Ego Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 811,
+      "name": "Gaia's Vengeance Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 812,
+      "name": "Glitchpop Bucky",
+      "type": "Bucky",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 813,
+      "name": "Gravitational Uranium Neuroblaster Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 814,
+      "name": "Imperium Bucky",
+      "type": "Bucky",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 815,
+      "name": "Immortalized Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 816,
+      "name": "Ion Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 817,
+      "name": "Iridian Thorn Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 818,
+      "name": "Kuronami Bucky",
+      "type": "Bucky",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 819,
+      "name": "Lightwave Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 820,
+      "name": "Magepunk Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 821,
+      "name": "Monarch Bucky",
+      "type": "Bucky",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 822,
+      "name": "Nunca Olvidados Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 823,
+      "name": "Oni Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 824,
+      "name": "Origin Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 825,
+      "name": "Overdrive Bucky",
+      "type": "Bucky",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 826,
+      "name": "Primordium Bucky",
+      "type": "Bucky",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 827,
+      "name": "Prime Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 828,
+      "name": "Prism Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 829,
+      "name": "Radiant Crisis 001 Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 830,
+      "name": "Sakura Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 831,
+      "name": "Schema Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 832,
+      "name": "Sensation Bucky",
+      "type": "Bucky",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 833,
+      "name": "Silvanus Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 834,
+      "name": "Soulstrife Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 835,
+      "name": "Spline Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 836,
+      "name": "Surge Bucky",
+      "type": "Bucky",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 837,
+      "name": "Tigris Bucky",
+      "type": "Bucky",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 838,
+      "name": "Valorant Go! Vol. 2 Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 839,
+      "name": "Xenohunter Bucky",
+      "type": "Bucky",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Judge": [
+    {
+      "id": 900,
+      "name": "Judge",
+      "type": "Judge",
+      "cost": 1850,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 901,
+      "name": "Aemondir Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 902,
+      "name": "Aristocrat Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 903,
+      "name": "Bound Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 904,
+      "name": "ChronoVoid Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 905,
+      "name": "Composite Judge",
+      "type": "Judge",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 906,
+      "name": "Convex Judge",
+      "type": "Judge",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 907,
+      "name": "Cryostasis Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 908,
+      "name": "Doodle Buds Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 909,
+      "name": "DoomBringer Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 910,
+      "name": "Elderflame Judge",
+      "type": "Judge",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 911,
+      "name": "Glitchpop Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 912,
+      "name": "Immortalized Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 913,
+      "name": "Ion Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 914,
+      "name": "Iridian Thorn Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 915,
+      "name": "Kuronami Judge",
+      "type": "Judge",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 916,
+      "name": "Magepunk Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 917,
+      "name": "Mustbloom Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 918,
+      "name": "Neo Frontier Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 919,
+      "name": "Nunca Olvidados Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 920,
+      "name": "Oni Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 921,
+      "name": "Outpost Judge",
+      "type": "Judge",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 922,
+      "name": "Overdrive Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 923,
+      "name": "Primordium Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 924,
+      "name": "Prism III Judge",
+      "type": "Judge",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 925,
+      "name": "Radiant Crisis 001 Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 926,
+      "name": "Reaver Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 927,
+      "name": "RagnaRockin' Judge",
+      "type": "Judge",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 928,
+      "name": "Ruination Judge",
+      "type": "Judge",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 929,
+      "name": "Sakura Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 930,
+      "name": "Schema Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 931,
+      "name": "Sensation Judge",
+      "type": "Judge",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 932,
+      "name": "Silvanus Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 933,
+      "name": "Snowfall Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 934,
+      "name": "Sovereign Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 935,
+      "name": "Spline Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 936,
+      "name": "Tigris Judge",
+      "type": "Judge",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 937,
+      "name": "Undercity Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 938,
+      "name": "Valorant Go! Vol. 1 Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 939,
+      "name": "Venturi Judge",
+      "type": "Judge",
+      "cost": 875,
+      "rarity": "Select",
+      "isBaseSkin": false
+    },
+    {
+      "id": 940,
+      "name": "Xenohunter Judge",
+      "type": "Judge",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ]
+}

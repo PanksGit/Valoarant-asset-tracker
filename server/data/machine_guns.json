@@ -1,0 +1,446 @@
+{
+  "Ares": [
+    {
+      "id": 1000,
+      "name": "Ares",
+      "type": "Ares",
+      "cost": 1600,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 1001,
+      "name": "Aristocrat Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1002,
+      "name": "Celestial Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1003,
+      "name": "Digihex Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1004,
+      "name": "Divine Swine Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1005,
+      "name": "Doodle Buds Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1006,
+      "name": "Endeavour Ares",
+      "type": "Ares",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1007,
+      "name": "Gaia's Vengeance Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1008,
+      "name": "Goldwing Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1009,
+      "name": "Hivemind Ares",
+      "type": "Ares",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1010,
+      "name": "Infantry Ares",
+      "type": "Ares",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1011,
+      "name": "Ion Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1012,
+      "name": "Jigsaw Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1013,
+      "name": "Magepunk Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1014,
+      "name": "Minima Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1015,
+      "name": "Monstrocity Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1016,
+      "name": "Nebula Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1017,
+      "name": "Nunca Olvidados Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1018,
+      "name": "Oni Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1019,
+      "name": "Outpost Ares",
+      "type": "Ares",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1020,
+      "name": "POLYfrog Ares",
+      "type": "Ares",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1021,
+      "name": "Premiere Collision Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1022,
+      "name": "Prism Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1023,
+      "name": "Rush Ares",
+      "type": "Ares",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1024,
+      "name": "Sakura Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1025,
+      "name": "Sentinels of Light Ares",
+      "type": "Ares",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1026,
+      "name": "Singularity Ares",
+      "type": "Ares",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1027,
+      "name": "Snowfall Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1028,
+      "name": "Spitfire Ares",
+      "type": "Ares",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1029,
+      "name": "Titanmail Ares",
+      "type": "Ares",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1030,
+      "name": "VALORANT GO! Vol. 2 Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1031,
+      "name": "Valiant Hero Ares",
+      "type": "Ares",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Odin": [
+    {
+      "id": 1100,
+      "name": "Odin",
+      "type": "Odin",
+      "cost": 3200,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 1101,
+      "name": "Aerosol Odin",
+      "type": "Odin",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1102,
+      "name": "BlastX Odin",
+      "type": "Odin",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1103,
+      "name": "Coalition: Cobra Odin",
+      "type": "Odin",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1104,
+      "name": "Digihex Odin",
+      "type": "Odin",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1105,
+      "name": "Doombringer Odin",
+      "type": "Odin",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1106,
+      "name": "Evori Odin",
+      "type": "Odin",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1107,
+      "name": "Glitchpop Odin",
+      "type": "Odin",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1108,
+      "name": "Lightwave Odin",
+      "type": "Odin",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1109,
+      "name": "Neo Frontier Odin",
+      "type": "Odin",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1110,
+      "name": "Neptune Odin",
+      "type": "Odin",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1111,
+      "name": "Nitro Odin",
+      "type": "Odin",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1112,
+      "name": "Prime 2.0 Odin",
+      "type": "Odin",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1113,
+      "name": "Prism III Odin",
+      "type": "Odin",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1114,
+      "name": "Reaver 2.0 Odin",
+      "type": "Odin",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1115,
+      "name": "Rune Stone Odin",
+      "type": "Odin",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1116,
+      "name": "Schema Odin",
+      "type": "Odin",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1117,
+      "name": "Sensation Odin",
+      "type": "Odin",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1118,
+      "name": "Sentinels of Light Odin",
+      "type": "Odin",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1119,
+      "name": "Smite Odin",
+      "type": "Odin",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1120,
+      "name": "Sovereign Odin",
+      "type": "Odin",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1121,
+      "name": "Topotek Odin",
+      "type": "Odin",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 1122,
+      "name": "Xenohunter Odin",
+      "type": "Odin",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ]
+}

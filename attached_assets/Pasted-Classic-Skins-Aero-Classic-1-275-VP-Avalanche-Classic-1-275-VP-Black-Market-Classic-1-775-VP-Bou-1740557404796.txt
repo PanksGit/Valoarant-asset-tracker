@@ -1,0 +1,221 @@
+Classic Skins
+Aero Classic	1,275 VP
+Avalanche Classic	1,275 VP
+Black Market Classic	1,775 VP
+Bound Classic	1,275 VP
+Celestial Classic	1,775 VP
+Convex Classic	875 VP
+Cryostasis Classic	1,775 VP
+Daydreams Classic	875 VP
+Eternal Spirit Classic	1,275 VP
+Fire Arm Classic	1,775 VP
+Forsaken Classic	1,775 VP
+Glitchpop Classic	2,175 VP
+Galleria Classic	875 VP
+Gravitational Uranium Neuroblaster (G.U.N) Classic	1,775 VP
+Hue Shift Classic	1,275 VP
+Imperium Classic	2,175 VP
+Infinity Classic	1,275 VP
+Intergrade Classic	875 VP
+Ion Classic	1,775 VP
+Kingdom Classic	1,275 VP
+Kohaku & Matsuba Classic	1,275 VP
+Luxe Classic	875 VP
+Magepunk Classic	1,775 VP
+Mirage Classic	1,275 VP
+Mystbloom Classic	2,175 VP
+Neptune Classic	1,775 VP
+Nitro Classic	875 VP
+Oni Classic	1,775 VP
+Origin Classic	1,775 VP
+Prime Classic	1,775 VP
+Prism III Classic	875 VP
+Radiant Crisis 001 Classic	1,775 VP
+Reaver Classic	1,775 VP
+Red Alert Classic	875 VP
+Reverie Classic	875 VP
+RGX 11z Pro Classic	2,175 VP
+Sakura Classic	1,275 VP
+Sarmad Classic	1,275 VP
+Sensation Classic	875 VP
+Silhouette Classic	875 VP
+Smite Classic	875 VP
+Snowfall Classic	1,275 VP
+Sovereign Classic	1,775 VP
+Spitfire Classic	875 VP
+Spectrum Classic	2,675 VP
+Spline Classic	1,775 VP
+Surge Classic	875 VP
+Switchback Classic	875 VP
+Titanmail Classic	1,275 VP
+Undercity Classic	1,775 VP
+Valorant Go! Vol. 2 Classic	1,775 VP
+Varnish Classic	875 VP
+Wayfarer Classic	875 VP
+Winterwunderland Classic	1,275 VP
+
+Frenzy Skins
+Aero Frenzy	1,275 VP
+BlastX Frenzy	2,175 VP
+Blush Frenzy	875 VP
+Celestial Frenzy	1,775 VP
+Coalition: Cobra Frenzy	875 VP
+Combat Crafts Frenzy	1,275 VP
+Convex Frenzy	875 VP
+Couture Frenzy	875 VP
+Divine Swine Frenzy	875 VP
+Elderflame Frenzy	2,475 VP
+Emberclad Frenzy	1,275 VP
+Glitchpop Frenzy	2,175 VP
+Holomoku Frenzy	1,275 VP
+Horizon Frenzy	1,275 VP
+Hydrodip Frenzy	875 VP
+Ion Frenzy	1,775 VP
+Lightwave Frenzy	875 VP
+Monarch Frenzy	875 VP
+Moondash Frenzy	875 VP
+Nebula Frenzy	1,775 VP
+Nunca Olvidados Frenzy	1,275 VP
+Oni Frenzy	1,775 VP
+Onion Frenzy	1,775 VP
+Orion Frenzy	1,275 VP
+Origin Frenzy	1,775 VP
+Prime 2.0 Frenzy	1,775 VP
+Protocol 781-A Frenzy	2,475 VP
+Ragnarocker Frenzy	875 VP
+Radiant Crisis 001 Frenzy	1,775 VP
+Reaver Frenzy	1,775 VP
+RGX 11z Pro Frenzy	2,175 VP
+Rush Frenzy	875 VP
+Sarmad Frenzy	1,275 VP
+Sensation Frenzy	875 VP
+Silhouette Frenzy	875 VP
+Silvanus Frenzy	1,275 VP
+Sovereign Frenzy	1,775 VP
+Spitfire Frenzy	875 VP
+Spectrum Frenzy	2,675 VP
+Swooping Frenzy	875 VP
+Team Ace Frenzy	1,275 VP
+Titanmail Frenzy	1,275 VP
+VALORANT GO! Vol. 1 Frenzy	1,775 VP
+Venturi Frenzy	875 VP
+Wonderstallion Frenzy	875 VP
+Xenohunter Frenzy	1,775 VP
+
+Shorty Skins
+Araxys Shorty	2,175 VP
+Aquatica Shorty	1,275 VP
+Chromedek Shorty	1,275 VP
+Doodle Buds Shorty	1,775 VP
+Gaia's Vengeance Shorty	1,775 VP
+Hue Shift Shorty	1,275 VP
+Luna Shorty	1,275 VP
+Neptune Shorty	1,775 VP
+Oni Shorty	1,775 VP
+Prelude to Chaos Shorty	2,175 VP
+Prism II Shorty	875 VP
+Rune Stone Shorty	1,275 VP
+Sentinels of Light Shorty	2,175 VP
+Tigris Shorty	1,275 VP
+Tilde Shorty	1,275 VP
+Transition Shorty	1,275 VP
+Velocity Shorty	1,275 VP
+Wasteland Shorty	1,275 VP
+
+Ghost Skin
+Abyssal Ghost	1,275 VP
+Celestial Ghost	1,775 VP
+ChronoVoid Ghost	2,175 VP
+Convex Ghost	875 VP
+Digihex Ghost	1,275 VP
+Ego Ghost	1,775 VP
+Endeavour Ghost	875 VP
+Gaia's Vengeance Ghost	1,775 VP
+Infraction Ghost	1,275 VP
+Infantry Ghost	875 VP
+Ion Ghost	1,775 VP
+Jigsaw Ghost	1,275 VP
+Luxe Ghost	875 VP
+Luna Ghost	1,275 VP
+Magepunk Ghost	1,775 VP
+Minima Ghost	1,275 VP
+Nebula Ghost	1,775 VP
+No Limits Ghost	1,275 VP
+Oni Ghost	1,775 VP
+Outpost Ghost	1,275 VP
+Phantom Protocol Ghost	2,175 VP
+Prism Ghost	1,275 VP
+Radiant Entertainment System Ghost	2,975 VP
+Reaver Ghost	1,775 VP
+Reaver 2.0 Ghost	1,775 VP
+Recon Ghost	1,775 VP
+Ruination Ghost	2,175 VP
+Ruin Ghost	1,275 VP
+Sakura Ghost	1,275 VP
+Serenity Ghost	1,275 VP
+Silvanus Ghost	1,275 VP
+Soulstrife Ghost	1,775 VP
+Sovereign Ghost	1,775 VP
+Spectrum Ghost	2,675 VP
+Tethered Realms Ghost	1,775 VP
+Valorant Go! Vol. 1 Ghost	1,775 VP
+Valiant Hero Ghost	1,275 VP
+Vendetta Ghost	1,275 VP
+Wasteland Ghost	1,275 VP
+Winterwunderland Ghost	1,275 VP
+
+Sheriff Skins
+Abyssal Sheriff	1,275 VP
+Aemondir Sheriff	1,775 VP
+Altitude Sheriff	1,275 VP
+Araxys Sheriff	2,175 VP
+Arcane Sheriff	2,375 VP
+Aristocrat Sheriff	1,275 VP
+ChronoVoid Sheriff	2,175 VP
+Composite Sheriff	875 VP
+Convex Sheriff	875 VP
+Crimsonbeast Sheriff	1,775 VP
+Death Wish Sheriff	875 VP
+Doombringer Sheriff	2,175 VP
+Game Over Sheriff	875 VP
+Harbor's Sheriff	875 VP
+Imperium Sheriff	2,175 VP
+Immortalized Sheriff	1,775 VP
+Ion Sheriff	1,775 VP
+Iridian Thorn Sheriff	1,275 VP
+Jett's Sheriff	875 VP
+K/TAC Sheriff	1,275 VP
+Kuronami Sheriff	2,375 VP
+Lightwave Sheriff	1,275 VP
+Magepunk Sheriff	1,775 VP
+Minima Sheriff	1,275 VP
+Monstrocity Sheriff	875 VP
+Mystbloom Sheriff	2,175 VP
+Mythmaker Sheriff	875 VP
+Nebula Sheriff	1,775 VP
+Neo Frontier Sheriff	2,175 VP
+Overdrive Sheriff	2,175 VP
+Peacekeeper Sheriff	875 VP
+POLYfox Sheriff	875 VP
+POLYfrog Sheriff	875 VP
+Prism II Sheriff	875 VP
+Protektor Sheriff	875 VP
+Protocol 781-A Sheriff	2,475 VP
+Reaver Sheriff	1,775 VP
+Retrowave Sheriff	875 VP
+RGX 11z Pro Sheriff	2,175 VP
+Sakura Sheriff	1,275 VP
+Sandswept Sheriff	1,275 VP
+Schema Sheriff	1,275 VP
+Sentinels of Light Sheriff	2,175 VP
+Silvanus Sheriff	1,275 VP
+Singularity Sheriff	2,175 VP
+Signature Sheriff	1,275 VP
+Sova's Sheriff	875 VP
+Surge Sheriff	875 VP
+.SYS Sheriff	1,275 VP
+Valorant Go! Vol. 1 Sheriff	1,775 VP
+Varnish Sheriff	1,275 VP
+Wasteland Sheriff	1,275 VP
+Wayfarer Sheriff	875 VP
+Yoru's Sheriff	875 VP

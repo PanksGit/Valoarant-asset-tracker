@@ -1,0 +1,1748 @@
+{
+  "Classic": [
+    {
+      "id": 1,
+      "name": "Classic",
+      "type": "Classic",
+      "cost": 0,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 2,
+      "name": "Aero Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 3,
+      "name": "Avalanche Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 4,
+      "name": "Black Market Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 5,
+      "name": "Bound Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 6,
+      "name": "Celestial Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 7,
+      "name": "Convex Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 8,
+      "name": "Cryostasis Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 9,
+      "name": "Daydreams Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 10,
+      "name": "Eternal Spirit Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 11,
+      "name": "Fire Arm Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 12,
+      "name": "Forsaken Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 13,
+      "name": "Glitchpop Classic",
+      "type": "Classic",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 14,
+      "name": "Galleria Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 15,
+      "name": "Gravitational Uranium Neuroblaster Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 16,
+      "name": "Hue Shift Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 17,
+      "name": "Imperium Classic",
+      "type": "Classic",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 18,
+      "name": "Infinity Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 19,
+      "name": "Intergrade Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 20,
+      "name": "Ion Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 21,
+      "name": "Kingdom Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 22,
+      "name": "Kohaku & Matsuba Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 23,
+      "name": "Luxe Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 24,
+      "name": "Magepunk Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 25,
+      "name": "Mirage Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 26,
+      "name": "Mystbloom Classic",
+      "type": "Classic",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 27,
+      "name": "Neptune Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 28,
+      "name": "Nitro Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 29,
+      "name": "Oni Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 30,
+      "name": "Origin Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 31,
+      "name": "Prime Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 32,
+      "name": "Prism III Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 33,
+      "name": "Radiant Crisis 001 Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 34,
+      "name": "Reaver Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 35,
+      "name": "Red Alert Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 36,
+      "name": "Reverie Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 37,
+      "name": "RGX 11z Pro Classic",
+      "type": "Classic",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 38,
+      "name": "Sakura Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 39,
+      "name": "Sarmad Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 40,
+      "name": "Sensation Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 41,
+      "name": "Silhouette Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 42,
+      "name": "Smite Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 43,
+      "name": "Snowfall Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 44,
+      "name": "Sovereign Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 45,
+      "name": "Spitfire Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 46,
+      "name": "Spectrum Classic",
+      "type": "Classic",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 47,
+      "name": "Spline Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 48,
+      "name": "Surge Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 49,
+      "name": "Switchback Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 50,
+      "name": "Titanmail Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 51,
+      "name": "Undercity Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 52,
+      "name": "Valorant Go! Vol. 2 Classic",
+      "type": "Classic",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 53,
+      "name": "Varnish Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 54,
+      "name": "Wayfarer Classic",
+      "type": "Classic",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 55,
+      "name": "Winterwunderland Classic",
+      "type": "Classic",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Shorty": [
+    {
+      "id": 100,
+      "name": "Shorty",
+      "type": "Shorty",
+      "cost": 150,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 101,
+      "name": "Araxys Shorty",
+      "type": "Shorty",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 102,
+      "name": "Aquatica Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 103,
+      "name": "Chromedek Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 104,
+      "name": "Doodle Buds Shorty",
+      "type": "Shorty",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 105,
+      "name": "Gaia's Vengeance Shorty",
+      "type": "Shorty",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 106,
+      "name": "Hue Shift Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 107,
+      "name": "Luna Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 108,
+      "name": "Neptune Shorty",
+      "type": "Shorty",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 109,
+      "name": "Oni Shorty",
+      "type": "Shorty",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 110,
+      "name": "Prelude to Chaos Shorty",
+      "type": "Shorty",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 111,
+      "name": "Prism II Shorty",
+      "type": "Shorty",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 112,
+      "name": "Rune Stone Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 113,
+      "name": "Sentinels of Light Shorty",
+      "type": "Shorty",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 114,
+      "name": "Tigris Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 115,
+      "name": "Tilde Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 116,
+      "name": "Transition Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 117,
+      "name": "Velocity Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 118,
+      "name": "Wasteland Shorty",
+      "type": "Shorty",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Frenzy": [
+    {
+      "id": 200,
+      "name": "Frenzy",
+      "type": "Frenzy",
+      "cost": 450,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 201,
+      "name": "Aero Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 202,
+      "name": "BlastX Frenzy",
+      "type": "Frenzy",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 203,
+      "name": "Blush Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 204,
+      "name": "Celestial Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 205,
+      "name": "Coalition: Cobra Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 206,
+      "name": "Combat Crafts Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 207,
+      "name": "Convex Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 208,
+      "name": "Couture Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 209,
+      "name": "Divine Swine Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 210,
+      "name": "Elderflame Frenzy",
+      "type": "Frenzy",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 211,
+      "name": "Emberclad Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 212,
+      "name": "Glitchpop Frenzy",
+      "type": "Frenzy",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 213,
+      "name": "Holomoku Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 214,
+      "name": "Horizon Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 215,
+      "name": "Hydrodip Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 216,
+      "name": "Ion Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 217,
+      "name": "Lightwave Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 218,
+      "name": "Monarch Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 219,
+      "name": "Moondash Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 220,
+      "name": "Nebula Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 221,
+      "name": "Nunca Olvidados Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 222,
+      "name": "Oni Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 223,
+      "name": "Onion Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 224,
+      "name": "Orion Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 225,
+      "name": "Origin Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 226,
+      "name": "Prime 2.0 Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 227,
+      "name": "Protocol 781-A Frenzy",
+      "type": "Frenzy",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 228,
+      "name": "Ragnarocker Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 229,
+      "name": "Radiant Crisis 001 Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 230,
+      "name": "Reaver Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 231,
+      "name": "RGX 11z Pro Frenzy",
+      "type": "Frenzy",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 232,
+      "name": "Rush Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 233,
+      "name": "Sarmad Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 234,
+      "name": "Sensation Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 235,
+      "name": "Silhouette Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 236,
+      "name": "Silvanus Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 237,
+      "name": "Sovereign Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 238,
+      "name": "Spitfire Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 239,
+      "name": "Spectrum Frenzy",
+      "type": "Frenzy",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 240,
+      "name": "Swooping Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 241,
+      "name": "Team Ace Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 242,
+      "name": "Titanmail Frenzy",
+      "type": "Frenzy",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 243,
+      "name": "VALORANT GO! Vol. 1 Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 244,
+      "name": "Venturi Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 245,
+      "name": "Wonderstallion Frenzy",
+      "type": "Frenzy",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 246,
+      "name": "Xenohunter Frenzy",
+      "type": "Frenzy",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Ghost": [
+    {
+      "id": 300,
+      "name": "Ghost",
+      "type": "Ghost",
+      "cost": 500,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 301,
+      "name": "Abyssal Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 302,
+      "name": "Celestial Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 303,
+      "name": "ChronoVoid Ghost",
+      "type": "Ghost",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 304,
+      "name": "Convex Ghost",
+      "type": "Ghost",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 305,
+      "name": "Digihex Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 306,
+      "name": "Ego Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 307,
+      "name": "Endeavour Ghost",
+      "type": "Ghost",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 308,
+      "name": "Gaia's Vengeance Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 309,
+      "name": "Infraction Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 310,
+      "name": "Infantry Ghost",
+      "type": "Ghost",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 311,
+      "name": "Ion Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 312,
+      "name": "Jigsaw Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 313,
+      "name": "Luxe Ghost",
+      "type": "Ghost",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 314,
+      "name": "Luna Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 315,
+      "name": "Magepunk Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 316,
+      "name": "Minima Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 317,
+      "name": "Nebula Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 318,
+      "name": "No Limits Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 319,
+      "name": "Oni Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 320,
+      "name": "Outpost Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 321,
+      "name": "Phantom Protocol Ghost",
+      "type": "Ghost",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 322,
+      "name": "Prism Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 323,
+      "name": "Radiant Entertainment System Ghost",
+      "type": "Ghost",
+      "cost": 2975,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 324,
+      "name": "Reaver Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 325,
+      "name": "Reaver 2.0 Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 326,
+      "name": "Recon Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 327,
+      "name": "Ruination Ghost",
+      "type": "Ghost",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 328,
+      "name": "Ruin Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 329,
+      "name": "Sakura Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 330,
+      "name": "Serenity Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 331,
+      "name": "Silvanus Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 332,
+      "name": "Soulstrife Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 333,
+      "name": "Sovereign Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 334,
+      "name": "Spectrum Ghost",
+      "type": "Ghost",
+      "cost": 2675,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 335,
+      "name": "Tethered Realms Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 336,
+      "name": "Valorant Go! Vol. 1 Ghost",
+      "type": "Ghost",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 337,
+      "name": "Valiant Hero Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 338,
+      "name": "Vendetta Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 339,
+      "name": "Wasteland Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 340,
+      "name": "Winterwunderland Ghost",
+      "type": "Ghost",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    }
+  ],
+  "Sheriff": [
+    {
+      "id": 400,
+      "name": "Sheriff",
+      "type": "Sheriff",
+      "cost": 800,
+      "rarity": "Select",
+      "isBaseSkin": true
+    },
+    {
+      "id": 401,
+      "name": "Abyssal Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 402,
+      "name": "Aemondir Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 403,
+      "name": "Altitude Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 404,
+      "name": "Araxys Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 405,
+      "name": "Arcane Sheriff",
+      "type": "Sheriff",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 406,
+      "name": "Aristocrat Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 407,
+      "name": "ChronoVoid Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 408,
+      "name": "Composite Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 409,
+      "name": "Convex Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 410,
+      "name": "Crimsonbeast Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 411,
+      "name": "Death Wish Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 412,
+      "name": "Doombringer Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 413,
+      "name": "Game Over Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 414,
+      "name": "Harbor's Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 415,
+      "name": "Imperium Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 416,
+      "name": "Immortalized Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 417,
+      "name": "Ion Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 418,
+      "name": "Iridian Thorn Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 419,
+      "name": "Jett's Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 420,
+      "name": "K/TAC Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 421,
+      "name": "Kuronami Sheriff",
+      "type": "Sheriff",
+      "cost": 2375,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 422,
+      "name": "Lightwave Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 423,
+      "name": "Magepunk Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 424,
+      "name": "Minima Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 425,
+      "name": "Monstrocity Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 426,
+      "name": "Mystbloom Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 427,
+      "name": "Mythmaker Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 428,
+      "name": "Nebula Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 429,
+      "name": "Neo Frontier Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 430,
+      "name": "Overdrive Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 431,
+      "name": "Peacekeeper Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 432,
+      "name": "POLYfox Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 433,
+      "name": "POLYfrog Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 434,
+      "name": "Prism II Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 435,
+      "name": "Protektor Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 436,
+      "name": "Protocol 781-A Sheriff",
+      "type": "Sheriff",
+      "cost": 2475,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 437,
+      "name": "Reaver Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 438,
+      "name": "Retrowave Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 439,
+      "name": "RGX 11z Pro Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 440,
+      "name": "Sakura Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 441,
+      "name": "Sandswept Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 442,
+      "name": "Schema Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 443,
+      "name": "Sentinels of Light Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 444,
+      "name": "Silvanus Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 445,
+      "name": "Singularity Sheriff",
+      "type": "Sheriff",
+      "cost": 2175,
+      "rarity": "Exclusive",
+      "isBaseSkin": false
+    },
+    {
+      "id": 446,
+      "name": "Signature Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 447,
+      "name": "Sova's Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 448,
+      "name": "Surge Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 449,
+      "name": ".SYS Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 450,
+      "name": "Valorant Go! Vol. 1 Sheriff",
+      "type": "Sheriff",
+      "cost": 1775,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 451,
+      "name": "Varnish Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 452,
+      "name": "Wasteland Sheriff",
+      "type": "Sheriff",
+      "cost": 1275,
+      "rarity": "Premium",
+      "isBaseSkin": false
+    },
+    {
+      "id": 453,
+      "name": "Wayfarer Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    },
+    {
+      "id": 454,
+      "name": "Yoru's Sheriff",
+      "type": "Sheriff",
+      "cost": 875,
+      "rarity": "Deluxe",
+      "isBaseSkin": false
+    }
+  ]
+}
